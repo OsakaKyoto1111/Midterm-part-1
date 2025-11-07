@@ -68,9 +68,9 @@ final class SearchViewController: UIViewController,
         (id: 28, name: "Боевик", sampleMovieID: 27205),
         (id: 12, name: "Приключения", sampleMovieID: 12445),
         (id: 16, name: "Мультфильм", sampleMovieID: 260514),
-        (id: 35, name: "Комедия", sampleMovieID: 496243),
+        (id: 35, name: "Комедия", sampleMovieID: 35),
         (id: 18, name: "Драма", sampleMovieID: 550),
-        (id: 27, name: "Ужасы", sampleMovieID: 77338),
+        (id: 27, name: "Ужасы", sampleMovieID: 77336),
         (id: 878, name: "Фантастика", sampleMovieID: 155)
     ]
 
